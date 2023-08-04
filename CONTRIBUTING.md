@@ -6,7 +6,8 @@ Thank you for your interest in, and engagement with, the Open Loyalty community.
 
 Before you type an issue please check:
 * Main readme - https://github.com/DivanteLtd/open-loyalty/blob/master/README.md 
-* Video product tour - https://youtu.be/cDZZemHxgAk
+* Video product tour - 
+
 * Official landing page - http://www.openloyalty.io/ 
 
 Issue reporting guidelines:
